@@ -26,6 +26,11 @@ body
      background: teal;
 }
 
+a,h1,button
+{
+     font-family:Arial, Helvetica, sans-serif
+}
+
 
 /******************************************
 /* LAYOUT
